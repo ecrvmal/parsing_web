@@ -1,0 +1,3 @@
+
+Обучение парсингу на Python #1 | Парсинг сайтов | Разбираем методы библиотеки Beautifulsoup
+https://www.youtube.com/watch?v=7hn1_t2ZtJQ
